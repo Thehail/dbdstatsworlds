@@ -2,8 +2,7 @@
     "name": "dbdcharts-backend",
     "version": "1.0.0",
     "description": "DBD World Cup Backend API",
-    "main": "dist/index.js",
-    "type": "module",
+    "main": "dist/server/index.js",
     "scripts": {
         "dev": "tsx watch server/index.ts",
         "build": "tsc",
